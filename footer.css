@@ -1,0 +1,68 @@
+.footer {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: black;
+}
+
+.teams {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid rgb(70, 69, 69);
+    height: 40px;
+    padding: 10px 10px;
+    margin: 5px 10px 5px 5px;
+    border-radius: 3px;
+    background-color: rgb(70, 69, 69);
+    color: white;
+    font-size: 20px;
+}
+
+.education {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid rgb(70, 69, 69);
+    height: 40px;
+    padding: 10px 10px;
+    margin: 5px 10px 5px 5px;
+    border-radius: 3px;
+    background-color: rgb(70, 69, 69);
+    color: white;
+    font-size: 20px;
+}
+
+.privacy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid rgb(70, 69, 69);
+    height: 40px;
+    padding: 10px 10px;
+    margin: 5px 10px 5px 5px;
+    border-radius: 3px;
+    background-color: rgb(70, 69, 69);
+    color: white;
+    font-size: 20px;
+}
+
+.writing   {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid rgb(70, 69, 69);
+    height: 40px;
+    padding: 10px 10px;
+    margin: 5px 10px 5px 5px;
+    border-radius: 3px;
+    background-color: rgb(70, 69, 69);
+    color: white;
+    font-size: 20px;
+}
+
+.div{
+    height: 30px;
+    background-color: black;
+}
